@@ -56,3 +56,6 @@
 
 ### References: 
 #### - IntroToGitHub-20190318.pptx - Powerpoint by Mark Chiusano
+
+## Glossary: 
+
