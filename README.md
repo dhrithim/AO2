@@ -74,3 +74,6 @@
 
 ### **GIT**: 
 #### - a version control system that lets you manage and keep track of your source code history 
+
+### **Merge**: 
+#### - the process of combining two or more development histories into one 
