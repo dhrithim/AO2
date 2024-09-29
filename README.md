@@ -27,6 +27,9 @@
 #### - Make the Repository Public and add the readme file 
 #### - Click create 
 
+### Step 8: Create a Repository from Webstorm 
+#### - Select VCS and Import into Version Control 
+
 
 
 
