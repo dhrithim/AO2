@@ -69,6 +69,5 @@
 ### **Commit**: 
 #### - records changes to one or more files in your branch 
 
-
-
-
+### **Fetch**: 
+#### - a primary command used to download contents from a remote repository 
