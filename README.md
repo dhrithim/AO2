@@ -19,6 +19,10 @@
 #### - In Webstorm, press (Ctrl+Alt+S) for system preferences
 #### - Next, Select Appearance and Behavior | System Settings | Passwords 
 
+### Step 6: Create a Repository 
+#### - Click the "+" sign in the upper right corner 
+#### - Choose "Create New Repository" 
+
 
 
 
