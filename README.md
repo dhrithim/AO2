@@ -23,6 +23,10 @@
 #### - Click the "+" sign in the upper right corner 
 #### - Choose "Create New Repository" 
 
+### Step 7: Finish Setting up Repository 
+#### - Make the Repository Public and add the readme file 
+#### - Click create 
+
 
 
 
