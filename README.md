@@ -35,6 +35,8 @@
 
 ### Step 10: Add Files to Git
 #### - When the "Add to Git" dialog opens, click "Add"
+
+### Step 11: Commit Your Changes 
 #### - This adds the files to the local file system 
 
 
