@@ -42,4 +42,17 @@
 ### Step 12: Push Your Changes to the Remote Repository 
 #### - Click "Ctrl > Shift > K" or "VCS > Git > Push"
 
+### Step 13: Set up GitHub Pages
+#### - Click "Settings" 
+#### - Check the Repository Name 
 
+### Step 14: Choose the GitHub Page Location 
+#### - Select "Master branch" 
+#### - Note the published URL 
+
+### Step 15: Check Your GitHub Pages 
+#### - Copy the Github.io link into a browser 
+#### - Post the URL into Moodle with your GitHub account link 
+
+### References: 
+#### - IntroToGitHub-20190318.pptx - Powerpoint by Mark Chiusano
