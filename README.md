@@ -33,6 +33,10 @@
 ### Step 9: Create a Webstorm File
 #### - Choose File > HTML > HTML 5 or File > Stylesheet
 
+### Step 10: Add Files to Git
+#### - When the "Add to Git" dialog opens, click "Add"
+#### - This adds the files to the local file system 
+
 
 
 
