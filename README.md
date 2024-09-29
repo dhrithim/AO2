@@ -77,3 +77,6 @@
 
 ### **Merge**: 
 #### - the process of combining two or more development histories into one 
+
+### **Merge Conflict**: 
+#### - when you merge branches that have competing commits 
