@@ -80,3 +80,6 @@
 
 ### **Merge Conflict**: 
 #### - when you merge branches that have competing commits 
+
+### **Push**: 
+#### - how you transfer commits from your local repository to a remote repo 
