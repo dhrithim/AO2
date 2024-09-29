@@ -71,3 +71,6 @@
 
 ### **Fetch**: 
 #### - a primary command used to download contents from a remote repository 
+
+### **GIT**: 
+#### - a version control system that lets you manage and keep track of your source code history 
