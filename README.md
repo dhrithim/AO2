@@ -60,8 +60,10 @@
 
 ## Glossary: 
 
-### __Branch__: allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository 
+### __Branch__: 
+#### - allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository 
 
-### __Clone__: when you clone a repository, you copy the repository from GitHub.com to your local machine 
+### __Clone__: 
+#### - when you clone a repository, you copy the repository from GitHub.com to your local machine 
 
 
