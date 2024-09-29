@@ -35,10 +35,11 @@
 
 ### Step 10: Add Files to Git
 #### - When the "Add to Git" dialog opens, click "Add"
-
-### Step 11: Commit Your Changes 
 #### - This adds the files to the local file system 
 
+### Step 11: Commit Your Changes 
 
+### Step 12: Push Your Changes to the Remote Repository 
+#### - Click "Ctrl > Shift > K" or "VCS > Git > Push"
 
 
