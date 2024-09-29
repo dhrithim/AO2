@@ -30,7 +30,8 @@
 ### Step 8: Create a Repository from Webstorm 
 #### - Select VCS and Import into Version Control 
 
-
+### Step 9: Create a Webstorm File
+#### - Choose File > HTML > HTML 5 or File > Stylesheet
 
 
 
