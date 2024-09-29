@@ -6,8 +6,8 @@
 
 #### - download here: [https://www.jetbrains.com/student/](url
 
-##### Step 2: Install Git as a Local Program
+### Step 2: Install Git as a Local Program
 
-###### - download here: [https://git-scm.com/downloads](url)
+##### - download here: [https://git-scm.com/downloads](url)
 
 
