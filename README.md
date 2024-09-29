@@ -86,3 +86,6 @@
 
 ### **Pull**: 
 #### - used to fetch and download content from a remote repository and immediately update the local repository to match that content 
+
+### **Remote**: 
+#### - the place where your code is stored 
