@@ -89,3 +89,6 @@
 
 ### **Remote**: 
 #### - the place where your code is stored 
+
+### **Repository**: 
+#### - a folder that stores code, files, and their revision history 
