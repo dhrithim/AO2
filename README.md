@@ -4,7 +4,7 @@
 
 ### Step 1: Install Webstorm 
 
-#### - download here: [https://www.jetbrains.com/student/](url
+#### - download here: [https://www.jetbrains.com/student/](url)
 
 ### Step 2: Install Git as a Local Program
 
